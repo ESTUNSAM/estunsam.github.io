@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+title: Escuela Secundaria Técnica UNSAM
+locale: es_ES
+description: Blog de reflexiones y experiencias
+logo: unsamLogo.jpg
 search: true
-url: http://localhost:4000
+url: http://estunsam.github.io/
 
 # Jekyll configuration
 
@@ -33,11 +33,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Docentes de la Escuela Secundaria Técnica de la Univeridad de San Martín
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: secundariatecnica@unsam.edu.ar
   disqus-shortname:
-  twitter: #username
+  twitter: secundariaUNSAM
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username

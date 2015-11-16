@@ -1,19 +1,19 @@
 # Site navigation links
 
-- title: About
+- title: Sobre nuestra escuela
   url: /about/
 
-- title: Articles
+- title: Articulos
   url: /articles/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Página de la Universidad
+  url: http://unsam.edu.ar
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Página de la Escuela
+  url: http://unsam.edu.ar/escuela_secundaria
 
-- title: Search
+- title: Buscar
   url: /search/
