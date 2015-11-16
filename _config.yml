@@ -5,7 +5,7 @@ locale: es_ES
 description: Blog de reflexiones y experiencias
 logo: unsamLogo.jpg
 search: true
-url: http://estunsam.github.io/
+url: http://estunsam.github.io
 
 # Jekyll configuration
 
